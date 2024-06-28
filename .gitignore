@@ -1,0 +1,13 @@
+node_modules
+dist
+.vscode
+lib
+lib-esm
+temp-*
+.idea
+yarn.lock
+public/bundle.min.js*
+*/public/bundle.min.js*
+build/bundle.min.js*
+*/build/bundle.min.js*
+package-lock.json

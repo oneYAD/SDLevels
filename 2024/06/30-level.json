@@ -1,0 +1,71 @@
+{
+    "seed": 3583302004,
+    "size": 4,
+    "table": [
+        [
+            "\u05d4",
+            "\u05d5",
+            "\u05dc",
+            "\u05d7"
+        ],
+        [
+            "\u05d4",
+            "\u05d4",
+            "\u05d2",
+            "\u05e4"
+        ],
+        [
+            "\u05dc",
+            "\u05d4",
+            "\u05d0",
+            "\u05dc"
+        ],
+        [
+            "\u05de",
+            "\u05d6",
+            "\u05e2",
+            "\u05e0"
+        ]
+    ],
+    "words": [
+        "\u05e4\u05d2\u05d5\u05dc",
+        "\u05d4\u05d5\u05d2\u05d4",
+        "\u05dc\u05d4\u05dc\u05d4",
+        "\u05e4\u05d0\u05d6\u05dc",
+        "\u05d2\u05d5\u05dc\u05e4",
+        "\u05d4\u05d0\u05e4\u05dc\u05d4",
+        "\u05e0\u05dc\u05d0\u05d4",
+        "\u05d6\u05dc\u05de\u05d4",
+        "\u05dc\u05d5\u05d4\u05d4",
+        "\u05d2\u05d5\u05d4\u05d4",
+        "\u05d0\u05e4\u05dc\u05d4",
+        "\u05e2\u05e0\u05d0\u05dc",
+        "\u05d4\u05d0\u05d4\u05dc",
+        "\u05d4\u05dc\u05d5\u05d4",
+        "\u05d0\u05d6\u05de\u05dc",
+        "\u05d4\u05d0\u05e4\u05dc",
+        "\u05d7\u05d2\u05dc\u05d4",
+        "\u05e4\u05dc\u05d5\u05d2",
+        "\u05dc\u05d4\u05d5\u05d2",
+        "\u05d4\u05d5\u05d2\u05d7",
+        "\u05d4\u05d5\u05d2\u05e4",
+        "\u05e4\u05d0\u05e0\u05dc",
+        "\u05e4\u05dc\u05d2\u05d4",
+        "\u05d4\u05dc\u05d6\u05d4",
+        "\u05e4\u05dc\u05d0\u05e0",
+        "\u05d4\u05de\u05dc\u05d4",
+        "\u05d4\u05d0\u05d4\u05dc\u05d4",
+        "\u05d4\u05d6\u05dc\u05d4",
+        "\u05d4\u05d2\u05d4\u05d4",
+        "\u05de\u05d6\u05d4\u05d4",
+        "\u05e4\u05dc\u05d0\u05d2",
+        "\u05d2\u05d5\u05dc\u05d4",
+        "\u05d7\u05dc\u05d5\u05d4",
+        "\u05d7\u05e4\u05dc\u05d4",
+        "\u05de\u05dc\u05d4\u05d2",
+        "\u05d4\u05d2\u05dc\u05d4",
+        "\u05d5\u05dc\u05d2\u05d4",
+        "\u05d4\u05e2\u05dc\u05d0\u05d4",
+        "\u05d2\u05dc\u05e2\u05e0"
+    ]
+}
