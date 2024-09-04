@@ -11,3 +11,10 @@ public/bundle.min.js*
 build/bundle.min.js*
 */build/bundle.min.js*
 package-lock.json
+*.csv
+*.zip
+scraper*
+venv
+*.pdf
+words*json
+__pycache__
