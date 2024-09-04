@@ -1,0 +1,67 @@
+{
+    "seed": 4010101143,
+    "size": 4,
+    "table": [
+        [
+            "\u05e8",
+            "\u05de",
+            "\u05d7",
+            "\u05d8"
+        ],
+        [
+            "\u05d1",
+            "\u05d2",
+            "\u05ea",
+            "\u05d2"
+        ],
+        [
+            "\u05e6",
+            "\u05e6",
+            "\u05d5",
+            "\u05d8"
+        ],
+        [
+            "\u05d8",
+            "\u05d6",
+            "\u05e6",
+            "\u05d8"
+        ]
+    ],
+    "words": [
+        "\u05de\u05ea\u05d2\u05d1\u05e8",
+        "\u05de\u05ea\u05d5\u05d2",
+        "\u05e6\u05e6\u05d5\u05ea",
+        "\u05de\u05d1\u05d2\u05e8",
+        "\u05de\u05e8\u05d1\u05e6",
+        "\u05ea\u05d2\u05d1\u05e8",
+        "\u05de\u05d1\u05e8\u05d2",
+        "\u05d2\u05e8\u05de\u05ea",
+        "\u05e6\u05d5\u05d8\u05d8",
+        "\u05de\u05d2\u05d1\u05e8",
+        "\u05e8\u05d1\u05e6\u05d5",
+        "\u05e6\u05d8\u05d5\u05d8"
+    ],
+    "bonus_words": [
+        "\u05e8\u05d1\u05e6\u05ea\u05de",
+        "\u05de\u05d2\u05d5\u05d2",
+        "\u05ea\u05e6\u05d2\u05d5",
+        "\u05de\u05ea\u05d2\u05d5",
+        "\u05ea\u05d7\u05de\u05e8",
+        "\u05d2\u05e8\u05d1\u05e6\u05ea\u05de",
+        "\u05d7\u05d2\u05ea\u05de",
+        "\u05e6\u05d5\u05ea\u05de",
+        "\u05d2\u05e8\u05d1\u05e6\u05d5",
+        "\u05de\u05d2\u05e8\u05d1\u05e6\u05d5\u05ea",
+        "\u05ea\u05d2\u05e8\u05de",
+        "\u05e6\u05d8\u05d8\u05ea",
+        "\u05ea\u05d5\u05d2\u05d7",
+        "\u05ea\u05d2\u05e8\u05d1\u05e6",
+        "\u05d2\u05e8\u05d1\u05e6",
+        "\u05e8\u05d2\u05d5\u05d6",
+        "\u05de\u05d2\u05e8\u05d1\u05e6\u05ea",
+        "\u05d2\u05d7\u05ea\u05de",
+        "\u05d1\u05e6\u05d5\u05ea",
+        "\u05de\u05d2\u05e8\u05d1\u05e6",
+        "\u05de\u05d7\u05d8\u05ea"
+    ]
+}
